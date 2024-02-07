@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "remove-markdown": "^0.5.0"
+  },
+  "name": "cli-help-from-readme",
+  "version": "1.0.0",
+  "description": "Generate a CLI help message from a README.md. Default is to use the default README of the package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/cli-help-from-readme.git"
+  },
+  "keywords": [
+    "cli-help",
+    "cli-help-message"
+  ],
+  "author": "Dennis Iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/cli-help-from-readme/issues"
+  },
+  "homepage": "https://github.com/diversen/cli-help-from-readme#readme"
+}
